@@ -12,22 +12,12 @@ authors:
   - Shuxin Luo
 
 date: '2023'
-
 publishDate: '2023-07-28T00:00:00Z' # Schedule page publish date (NOT publication's date).
-
-# Publication type.
-# Accepts a single type but formatted as a YAML list (for Hugo requirements).
-# Enter a publication type from the CSL standard.
 publication_types: ['paper-conference']
-
 tags: []
-
-# Display this page in the Featured widget?
 featured: false
-
 url_pdf: uploads/ICPET_Zhimeng_Wang.pdf
 url_slides: uploads/ICPET_Zhimeng_Wang_slides.pdf
-
 ---
 
 {{% callout note %}}
