@@ -65,7 +65,7 @@ sections:
         - title: Master's student in Electrical Engineering
           company: Tsinghua University
           company_url: 'https://www.tsinghua.edu.cn/en/'
-          company_logo: org-gc
+          company_logo: content/thu_logo_transparent.jpg
           location: Beijing
           date_start: '2021-09-01'
           date_end: ''
