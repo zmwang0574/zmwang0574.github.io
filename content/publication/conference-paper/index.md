@@ -6,7 +6,7 @@ title: 'Boundary Inference of Load Scenarios in Multi-energy Parks Based on Stat
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Jiajia Huan
-  - Zhimeng Wang
+  - admin
   - Yunfei Du
   - Xinwei Shen
   - etc. 
@@ -20,7 +20,7 @@ date: '2023'
 # doi: ''
 
 # Schedule page publish date (NOT publication's date).
-# publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2023-07-28T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
