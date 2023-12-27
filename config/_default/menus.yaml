@@ -9,13 +9,13 @@ main:
     weight: 10
   - name: Biography
     url: '#biography'
-    weight: 20
+    weight: 10
   - name: Publications
     url: '#publications'
-    weight: 30
+    weight: 10
   - name: Contact
     url: '#contact'
-    weight: 40
+    weight: 10
   # - name: Posts
   #   url: '#posts'
   #   weight: 20
