@@ -50,7 +50,7 @@ sections:
   #     username: admin
   #   design:
   #     columns: '1'
-  - block: biography
+  - block: experience
     content:
       title: Biography
       # Date format for experience
