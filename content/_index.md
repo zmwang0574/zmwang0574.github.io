@@ -65,7 +65,7 @@ sections:
         - title: Master's student in Electrical Engineering
           company: Tsinghua University
           company_url: 'https://www.tsinghua.edu.cn/en/'
-          company_logo: org-gc
+          company_logo: /workspaces/zmwang0574.github.io/images/thu_logo_transparent.jpg
           location: Beijing
           date_start: '2021-09-01'
           date_end: ''
@@ -81,7 +81,7 @@ sections:
           company_logo: org-x
           location: Beijing
           date_start: '2017-09-01'
-          date_end: '2021-12-31'
+          date_end: '2021-06-30'
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
