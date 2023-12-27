@@ -46,12 +46,12 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: /workspaces/zmwang0574.github.io/static/uploads/ICPET_Zhimeng_Wang_slides.pdf
+url_pdf: uploads/ICPET_Zhimeng_Wang_slides.pdf
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''
 # url_project: ''
-url_slides: /workspaces/zmwang0574.github.io/static/uploads/ICPET_Zhimeng_Wang.pdf
+url_slides: uploads/ICPET_Zhimeng_Wang.pdf
 # url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_video: 'https://youtube.com'
 
