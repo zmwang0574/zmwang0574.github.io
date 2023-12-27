@@ -42,14 +42,14 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  # - block: skills
-  #   content:
-  #     title: Skills
-  #     text: ''
-  #     # Choose a user to display skills from (a folder name within `content/authors/`)
-  #     username: admin
-  #   design:
-  #     columns: '1'
+  - block: skills
+    content:
+      title: Skills
+      text: ''
+      # Choose a user to display skills from (a folder name within `content/authors/`)
+      username: admin
+    design:
+      columns: '1'
   - block: experience
     content:
       title: Experience
@@ -62,12 +62,12 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Master's Student in Electrical Engineering
-          company: Tsinghua University
-          company_url: 'https://www.tsinghua.edu.cn/en/'
-          # company_logo: workspaces/zmwang0574.github.io/images/thu_logo_transparent.jpg
-          location: Beijing, China
-          date_start: '2021-09'
+        - title: CEO
+          company: GenCoin
+          company_url: ''
+          company_logo: org-gc
+          location: California
+          date_start: '2021-01-01'
           date_end: ''
           description: |2-
               Responsibilities include:
@@ -75,14 +75,14 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-        - title: BS in Automation
-          company: Beijing University of Chemical Technology
-          company_url: 'https://english.buct.edu.cn/main.htm'
+        - title: Professor of Semiconductor Physics
+          company: University X
+          company_url: ''
           company_logo: org-x
-          location: Beijing, China
-          date_start: '2017-09'
-          date_end: '2021-06'
-          description: GPA=88.73/100, ranking=7/153 (top 5%)
+          location: California
+          date_start: '2016-01-01'
+          date_end: '2020-12-31'
+          description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
   - block: accomplishments
@@ -237,37 +237,37 @@ sections:
       text: |-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: wang-zm21@mails.tsinghua.edu.cn
-      phone: +86 188 0123 7587
-      # appointment_url: 'https://calendly.com'
-      # address:
-      #   street: 450 Serra Mall
-      #   city: Stanford
-      #   region: CA
-      #   postcode: '94305'
-      #   country: United States
-      #   country_code: US
-      # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      # office_hours:
-      #   - 'Monday 10:00 to 13:00'
-      #   - 'Wednesday 09:00 to 10:00'
+      email: test@example.org
+      phone: 888 888 88 88
+      appointment_url: 'https://calendly.com'
+      address:
+        street: 450 Serra Mall
+        city: Stanford
+        region: CA
+        postcode: '94305'
+        country: United States
+        country_code: US
+      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+      office_hours:
+        - 'Monday 10:00 to 13:00'
+        - 'Wednesday 09:00 to 10:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
-      # coordinates:
-      #   latitude: '37.4275'
-      #   longitude: '-122.1697'  
-      # contact_links:
-      #   - icon: twitter
-      #     icon_pack: fab
-      #     name: DM Me
-      #     link: 'https://twitter.com/Twitter'
-      #   - icon: skype
-      #     icon_pack: fab
-      #     name: Skype Me
-      #     link: 'skype:echo123?call'
-      #   - icon: video
-      #     icon_pack: fas
-      #     name: Zoom Me
-      #     link: 'https://zoom.com'
+      coordinates:
+        latitude: '37.4275'
+        longitude: '-122.1697'  
+      contact_links:
+        - icon: twitter
+          icon_pack: fab
+          name: DM Me
+          link: 'https://twitter.com/Twitter'
+        - icon: skype
+          icon_pack: fab
+          name: Skype Me
+          link: 'skype:echo123?call'
+        - icon: video
+          icon_pack: fas
+          name: Zoom Me
+          link: 'https://zoom.com'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
