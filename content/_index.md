@@ -36,12 +36,12 @@ sections:
         gradient_end: '#1976d2'
         gradient_start: '#004ba0'
         text_color_light: true
-  - block: about.biography
-    id: about
-    content:
-      title: Biography
-      # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
+  # - block: about.biography
+  #   id: about
+  #   content:
+  #     title: Biography
+  #     # Choose a user profile to display (a folder name within `content/authors/`)
+  #     username: admin
   # - block: skills
   #   content:
   #     title: Skills
@@ -50,9 +50,9 @@ sections:
   #     username: admin
   #   design:
   #     columns: '1'
-  - block: experience
+  - block: biography
     content:
-      title: Experience
+      title: Biography
       # Date format for experience
       #   Refer to https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006

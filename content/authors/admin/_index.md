@@ -94,9 +94,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:wang-zm21@mails.tsinghua.edu.cn'
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  #   icon_pack: fas
+  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/zhimeng-wang-19002b199/
