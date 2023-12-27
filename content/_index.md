@@ -67,7 +67,7 @@ sections:
           company_url: 'https://www.tsinghua.edu.cn/en/'
           company_logo: org-gc
           location: Beijing
-          date_start: '2021-09'
+          date_start: '2021-09-01'
           date_end: ''
           description: |2-
               Responsibilities include:
@@ -80,8 +80,8 @@ sections:
           company_url: 'https://english.buct.edu.cn/main.htm'
           company_logo: org-x
           location: Beijing
-          date_start: '2017-09'
-          date_end: '2021-06'
+          date_start: '2017-09-01'
+          date_end: '2021-12-31'
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
