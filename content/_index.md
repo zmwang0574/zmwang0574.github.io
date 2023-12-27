@@ -70,11 +70,10 @@ sections:
           date_start: '2021-09-01'
           date_end: ''
           description: |2-
-              Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
+              * Supervisors: Prof. Hongbin Sun, Prof. Xinwei Shen
+              * Research topics: Microgrid/Integrated energy sysmtes planning
+              * GPA=3.84/4.0
         - title: BS in Automation
           company: Beijing University of Chemical Technology
           company_url: 'https://english.buct.edu.cn/main.htm'
