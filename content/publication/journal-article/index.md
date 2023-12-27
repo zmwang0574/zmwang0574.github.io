@@ -1,8 +1,11 @@
 ---
-title: "An example journal article"
+title: "A Robust Planning Model for Offshore Microgrid Considering Tidal Power and Desalination"
 authors:
-- admin
-- Robert Ford
+- Zhimeng Wang
+- Ang Xuan
+- Xinwei Shen
+- Yunfei Du
+- Hongbin Sun
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
@@ -33,11 +36,11 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: https://www.sciencedirect.com/science/article/pii/S0306261923010772 
+url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: ''
+url_project: 'https://drive.google.com/file/d/1WJPNE_V4ufAvJSBMWcf3I-CG8vo5-ZKM/view?usp=drive_link'
 url_slides: ''
 url_source: ''
 url_video: ''

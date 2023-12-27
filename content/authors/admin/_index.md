@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Zhimeng Wang
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Zhimeng Wang
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Zhimeng
+last_name: Wang
 
 # Status emoji
 status:
@@ -17,21 +17,22 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Master's Student in Electrical Engineering with a research focus on power systems optimization
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Tsinghua-Berkeley Shenzhen Institute, Tsinghua University
+    url: tsinghua.edu.cn
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include UNDER CONSTRUCTION.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Power systems optimization
+  - Frequency stability
+  - Microgrid planning
+  - Ocean renewable energy
 
 # Education to show in About widget
 education:
