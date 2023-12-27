@@ -1,7 +1,7 @@
 ---
 title: "A Robust Planning Model for Offshore Microgrid Considering Tidal Power and Desalination"
 authors:
-- Zhimeng Wang
+- admin
 - Ang Xuan
 - Xinwei Shen
 - Yunfei Du
@@ -9,7 +9,7 @@ authors:
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-# date: "2015-09-01T00:00:00Z"
+date: "2023-11-15T00:00:00Z"
 doi: "https://doi.org/10.1016/j.apenergy.2023.121713"
 
 # Schedule page publish date (NOT publication's date).
