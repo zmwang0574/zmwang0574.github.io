@@ -77,7 +77,7 @@ sections:
         - title: BS in Automation
           company: Beijing University of Chemical Technology
           company_url: 'https://english.buct.edu.cn/main.htm'
-          company_logo: org-x
+          company_logo: BUCT_Logo
           location: Beijing
           date_start: '2017-09-01'
           date_end: '2021-06-30'
