@@ -3,7 +3,7 @@
 title: Zhimeng Wang
 
 # Name pronunciation (optional)
-name_pronunciation: Zhimeng Wang
+# name_pronunciation: Zhimeng Wang
 
 # Full name (for SEO)
 first_name: Zhimeng
@@ -17,11 +17,13 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Master's Student in Electrical Engineering with a research focus on power systems optimization
+role: Master's Student in Electrical Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Tsinghua-Berkeley Shenzhen Institute, Tsinghua University
+  - name: Tsinghua-Berkeley Shenzhen Institute
+    url: http://www.tbsi.edu.cn/
+  - name: Tsinghua University
     url: tsinghua.edu.cn
 
 # Short bio (displayed in user profile at end of posts)
@@ -37,15 +39,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MS in Electrical Engineering
+      institution: Tsinghua University
+      year: Sept. 2021 - Jun. 2024 (prospective)
+    - course: BS in Automation
+      institution: Beijing University of Chemical Technology
+      year: Sept. 2017 - Jun. 2021
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -94,19 +93,10 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
+    link: 'mailto:wang-zm21@mails.tsinghua.edu.cn'
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
@@ -115,11 +105,11 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/CV_Zhimeng_Wang.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a last-year Master's student in Electrical Engineering at Tsinghua University, supervised by Prof. Hongbin Sun and Prof. Xinwei Shen. My research interests include power systems optimization, renewable energy integration, etc. 
 {style="text-align: justify;"}
