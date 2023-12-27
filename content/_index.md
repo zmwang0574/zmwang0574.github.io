@@ -82,7 +82,11 @@ sections:
           location: Beijing
           date_start: '2017-09-01'
           date_end: '2021-06-30'
-          description: GPA=88.73/100, ranking=7/153 (top 5%)
+          description: |2-
+
+              * GPA=88.73/100
+              * Ranking=7/153 (top 5%)
+              * Beijing outstanding graduate
     design:
       columns: '2'
   # - block: accomplishments
