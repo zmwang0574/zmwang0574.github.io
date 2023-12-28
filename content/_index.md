@@ -59,7 +59,17 @@ sections:
 
               * Supervisors: Prof. Hongbin Sun, Prof. Xinwei Shen
               * Research topics: Microgrid/Integrated energy sysmtes planning
-              * GPA=3.84/4.0
+              * Course works: Distributed control and optimization of power systems, Large network steady-state analysis, Learning from data, Introduction to smart grids, etc. 
+        - title: Exchange student
+          company: University of California, Berkeley
+          company_url: 'https://www.berkeley.edu/'
+          company_logo: UCBerkeley
+          location: Berkeley, CA
+          date_start: '2019-08-27'
+          date_end: '2019-12-20'
+          description: |2-
+
+              * Course works: Introduction to Electric Power Systems, Optimization Models in Engineering, etc. 
         - title: BS in Automation
           company: Beijing University of Chemical Technology
           company_url: 'https://english.buct.edu.cn/main.htm'
@@ -72,6 +82,7 @@ sections:
               * GPA=88.73/100
               * Ranking=7/153 (top 5%)
               * Beijing outstanding graduate
+              * Course works: Classical control theory, Modern control theory, Process control engineering, Optimal control, General physics, etc.
     design:
       columns: '2'
   - block: collection
