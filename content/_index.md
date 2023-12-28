@@ -59,7 +59,7 @@ sections:
 
               * Supervisors: Prof. Hongbin Sun, Prof. Xinwei Shen
               * Research topics: Microgrid/Integrated energy sysmtes planning
-              * Course works: Distributed control and optimization of power systems, Large network steady-state analysis, Learning from data, Introduction to smart grids, etc. 
+              * Course works: Distributed Control and Optimization of Power Systems, Large Network Steady-state Analysis, Learning from Data, Introduction to Smart Grids, etc. 
         - title: Exchange student
           company: University of California, Berkeley
           company_url: 'https://www.berkeley.edu/'
@@ -82,7 +82,7 @@ sections:
               * GPA=88.73/100
               * Ranking=7/153 (top 5%)
               * Beijing outstanding graduate
-              * Course works: Classical control theory, Modern control theory, Process control engineering, Optimal control, General physics, etc.
+              * Course works: Classical Control theory, Modern Control Theory, Process Control Engineering, Optimal Control, General Physics, etc.
     design:
       columns: '2'
   - block: collection
@@ -104,7 +104,7 @@ sections:
     id: contact
     content:
       title: Contact
-      email: wang-zm21@mails.tsinghua.edu.cn
+      email: wang-zm21@mails.tsinghua.edu.cn; zhimengwang0574@gmail.com; zmwang0574@163.com
       phone: +86 188 0123 7587
       address:
         street: Tsinghua Shenzhen International Graduate School, 2279 Lishui Road
