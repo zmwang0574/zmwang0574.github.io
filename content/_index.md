@@ -103,7 +103,7 @@ sections:
   - block: contact
     id: contact
     content:
-      title: Contact :christmas_tree:
+      title: Contact
       email: wang-zm21@mails.tsinghua.edu.cn; zhimengwang0574@gmail.com; zmwang0574@163.com
       phone: +86 188 0123 7587
       address:
