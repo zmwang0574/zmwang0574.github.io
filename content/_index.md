@@ -105,8 +105,8 @@ sections:
     content:
       title: News
       text: |-
-        - **[12/28/2023]** Yay! This website is up. Happy holidays! 🎄
-        - [Why not take a look at this](https://zmwang0574.github.io/publication/j1-apen2023/).
+        - **[Dec. 2023]** Happy holidays! 🎄
+        - **[Aug. 2023]** *A Robust Planning Model for Offshore Microgrid Considering Tidal Power and Desalination* got accpeted by Applied Energy! See [here](https://zmwang0574.github.io/publication/j1-apen2023/) for PDF, slides and more! 
 
       filters:
         folders: 
