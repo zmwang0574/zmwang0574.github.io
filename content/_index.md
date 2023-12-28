@@ -101,9 +101,9 @@ sections:
       columns: '2'
       view: citation #compact
   - block: collection
-    id: news
+    id: posts
     content: 
-    title: News
+    title: Posts
     design:
       columns: '2'
       # view: citation #compact

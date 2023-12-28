@@ -1,5 +1,5 @@
 ---
-title: Ne
+title: News
 cms_exclude: true
 
 # View.
