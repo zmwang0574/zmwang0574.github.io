@@ -24,6 +24,13 @@ tags:
 featured: true
 url_pdf: uploads/ICPET_Zhimeng_Wang.pdf
 url_slides: uploads/ICPET_Zhimeng_Wang_slides.pdf
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  caption: 'The derived boundaries of the uncertainty set. '
+  focal_point: ""
+  preview_only: false
 ---
 
 <!-- {{% callout note %}}

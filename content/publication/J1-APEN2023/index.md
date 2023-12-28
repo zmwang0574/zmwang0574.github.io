@@ -50,7 +50,7 @@ url_slides: uploads/APEN_Zhimeng_Wang_slides.pdf
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
   caption: 'Structure of the offshore microgrid discussed in this paper'
-  focal_point: ""
+  # focal_point: ""
   preview_only: false
 
 # Associated Projects (optional).
