@@ -105,8 +105,9 @@ sections:
     content:
       title: News
       text: |-
-        - **[12/28/2023]** Yay! This website is up! 🎄
-        - test news 2
+        - **[12/28/2023]** Yay! This website is up! Happy holidays! 🎄
+        - My CV is here. {{% staticref "uploads/CV_Zhimeng_Wang.pdf" "newtab" %}}Download my CV{{% /staticref %}}
+
       filters:
         folders: 
           - news
