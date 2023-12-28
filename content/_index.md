@@ -97,16 +97,12 @@ sections:
         folders:
           - publication
         exclude_featured: false
+    id: news
+    content: 
+    title: News
     design:
       columns: '2'
       view: citation #compact
-  # - block: collection
-  #   id: posts
-  #   content: 
-  #   title: Posts
-  #   design:
-  #     columns: '2'
-  #     # view: citation #compact
   - block: contact
     id: contact
     content:
