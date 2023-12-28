@@ -12,13 +12,21 @@ authors:
 date: '2023'
 publishDate: '2023-07-28T00:00:00Z' # Schedule page publish date (NOT publication's date).
 publication_types: ['paper-conference']
-tags: []
-featured: false
+abstract: Uncertainties of loads including but not limited to electricity, cold and heat have brought difficulties to safe and economical operation of multi-energy complementary parks. To deal with the uncertainties, system operators usually choose to set a fluctuation range for the loads based on their past experiences of operation of the system as well as their personal preferences and habits, making the fluctuation ranges, also known as uncertainty sets in optimization, less reliable and less explainable. In this paper, we proposed a method of determining uncertainty sets in multi-energy complementary parks based on statistical learning. By applying this method, the uncertainty sets can be derived more flexibly solely based on how much the safe operation of the system could be affected and the predicted values of the loads, with no need of past experiences of operation. Such advantages make the proposed method easier to be popularized and utilized in various areas and scenarios.
+# Summary. An optional shortened abstract.
+summary: 
+  - Proposed a method to determine boundary of uncertainty sets of load scenarios in robust optimization that requires no information about past data. 
+  - The paper was selected as the _best student paper finalist_ and I delivered an _oral speech_.
+tags:
+- Integrated energy systems
+- Robust optimization
+- Boundary inference
+featured: true
 url_pdf: uploads/ICPET_Zhimeng_Wang.pdf
 url_slides: uploads/ICPET_Zhimeng_Wang_slides.pdf
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
@@ -26,4 +34,4 @@ Click the _Cite_ button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the _Slides_ button to check out the example.
 {{% /callout %}}
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->
