@@ -97,10 +97,6 @@ sections:
         folders:
           - publication
         exclude_featured: false
-    id: news
-    content:
-      title: News
-      text: test news
     design:
       columns: '2'
       view: citation #compact
