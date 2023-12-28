@@ -111,7 +111,7 @@ sections:
         exclude_featured: false
     design:
       columns: '2'
-      # view: citation #compact
+      view: citation #compact
   - block: contact
     id: contact
     content:
