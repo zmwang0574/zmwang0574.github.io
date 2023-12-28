@@ -12,6 +12,7 @@ authors:
 date: '2023'
 publishDate: '2023-07-28T00:00:00Z' # Schedule page publish date (NOT publication's date).
 publication_types: ['paper-conference']
+publication: "*2023 The 5th International Conference on Power and Energy Technology (ICPET)*" # Publication name and optional abbreviated publication name.
 abstract: Uncertainties of loads including but not limited to electricity, cold and heat have brought difficulties to safe and economical operation of multi-energy complementary parks. To deal with the uncertainties, system operators usually choose to set a fluctuation range for the loads based on their past experiences of operation of the system as well as their personal preferences and habits, making the fluctuation ranges, also known as uncertainty sets in optimization, less reliable and less explainable. In this paper, we proposed a method of determining uncertainty sets in multi-energy complementary parks based on statistical learning. By applying this method, the uncertainty sets can be derived more flexibly solely based on how much the safe operation of the system could be affected and the predicted values of the loads, with no need of past experiences of operation. Such advantages make the proposed method easier to be popularized and utilized in various areas and scenarios.
 # Summary. An optional shortened abstract.
 summary: 
