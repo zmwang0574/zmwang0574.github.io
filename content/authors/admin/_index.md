@@ -32,6 +32,7 @@ bio: Power systems optimization and operation.
 # Interests to show in About widget
 interests:
   - Power systems optimization
+  - Distributed energy resources control
   - Frequency stability
   - Microgrid planning
   - Ocean renewable energy
