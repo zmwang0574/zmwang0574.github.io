@@ -106,7 +106,7 @@ sections:
       title: News
       text: |-
         - **[12/28/2023]** Yay! This website is up! Happy holidays! 🎄
-        - {{% staticref "uploads/CV_Zhimeng_Wang.pdf" "newtab" %}}My CV is here. {{% /staticref %}}
+        - [Go to here](https://zmwang0574.github.io/publication/j1-apen2023/)
 
       filters:
         folders: 
