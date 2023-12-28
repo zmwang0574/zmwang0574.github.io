@@ -106,7 +106,7 @@ sections:
       title: News
       text: |-
         - **[Dec. 2023]** Happy holidays! 🎄
-        - **[Aug. 2023]** *A Robust Planning Model for Offshore Microgrid Considering Tidal Power and Desalination* got accpeted by Applied Energy! See [here](https://zmwang0574.github.io/publication/j1-apen2023/) for PDF, slides and more! 
+        - **[Aug. 2023]** My paper "A Robust Planning Model for Offshore Microgrid Considering Tidal Power and Desalination" got accpeted by *Applied Energy*! See [here](https://zmwang0574.github.io/publication/j1-apen2023/) for PDF, slides and more! 
 
       filters:
         folders: 
