@@ -104,7 +104,7 @@ sections:
     id: news
     content:
       title: News
-      text: test news
+      text: # test news
       filters:
         folders:
           - news
