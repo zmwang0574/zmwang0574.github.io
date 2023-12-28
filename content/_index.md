@@ -104,14 +104,11 @@ sections:
     id: news
     content:
       title: News
-      text: # test news
-      filters:
-        folders:
-          - news
-        exclude_featured: false
+      text: |-
+        - test news
+        - test news 2
     design:
       columns: '2'
-      view: citation #compact
   - block: contact
     id: contact
     content:
