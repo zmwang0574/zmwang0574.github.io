@@ -105,7 +105,7 @@ sections:
     content:
       title: News
       text: |-
-        - *[12/28/2023]* Yay! This website is up! 🎄
+        - **[12/28/2023]** Yay! This website is up! 🎄
         - test news 2
       filters:
         folders: 
