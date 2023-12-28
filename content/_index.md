@@ -100,6 +100,13 @@ sections:
     design:
       columns: '2'
       view: citation #compact
+  - block: collection
+    id: news
+    content: 
+    title: News
+    design:
+      columns: '2'
+      view: citation #compact
   - block: contact
     id: contact
     content:
