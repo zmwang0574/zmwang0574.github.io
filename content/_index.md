@@ -109,6 +109,8 @@ sections:
         - test news 2
       filters:
         folders: 
+          - news
+        exclude_featured: true
     design:
       columns: '2'
   - block: contact
