@@ -105,8 +105,8 @@ sections:
     content:
       title: News
       text: |-
-        - **[12/28/2023]** Yay! This website is up! Happy holidays! 🎄
-        # - [Go to here](https://zmwang0574.github.io/publication/j1-apen2023/) # just to remind myself how to link to websites. 
+        - **[12/28/2023]** Yay! This website is up. Happy holidays! 🎄
+        - [Why not take a look at this](https://zmwang0574.github.io/publication/j1-apen2023/).
 
       filters:
         folders: 
