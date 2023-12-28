@@ -111,11 +111,5 @@ social:
 highlight_name: true
 ---
 
-I am a last-year Master's student in Electrical Engineering at Tsinghua University, supervised by Prof. Hongbin Sun and Prof. Xinwei Shen. My **research interests** include power systems optimization, renewable energy integration, etc. 
-
-[I'm an external link](https://www.google.com)
-
-[A publication]({{< relref "/publication/C1-ICPET2023" >}})
-
-[Scroll down to a page section with heading *Hi*](#hi)
+I am a last-year Master's student in Electrical Engineering at [Tsinghua University](https://www.tsinghua.edu.cn/en/), supervised by [Prof. Hongbin Sun](https://www.eea.tsinghua.edu.cn/en/faculties/shb.htm) and [Prof. Xinwei Shen](https://xinweishen.com/). My **research interests** include power systems optimization, renewable energy integration, etc. 
 {style="text-align: justify;"}
