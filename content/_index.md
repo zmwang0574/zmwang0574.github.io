@@ -107,6 +107,8 @@ sections:
       text: |-
         - test news
         - test news 2
+      filters:
+        folders: 
     design:
       columns: '2'
   - block: contact
