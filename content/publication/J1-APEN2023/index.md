@@ -11,17 +11,8 @@ authors:
 # - "Equal contribution"
 date: "2023-11-15T00:00:00Z"
 doi: "https://doi.org/10.1016/j.apenergy.2023.121713"
-
-# Schedule page publish date (NOT publication's date).
-# publishDate: "2017-01-01T00:00:00Z"
-
-# Publication type.
-# Accepts a single type but formatted as a YAML list (for Hugo requirements).
-# Enter a publication type from the CSL standard.
 publication_types: ["article-journal"]
-
-# Publication name and optional abbreviated publication name.
-publication: "*Applied Energy*"
+publication: "*Applied Energy*" # Publication name and optional abbreviated publication name.
 # publication_short: ""
 
 abstract: Increasing attention has been paid to resources on islands, thus microgrids on islands need to be invested. Different from onshore microgrids, offshore microgrids (OM) are usually abundant in ocean renewable energy (ORE), such as offshore wind, tidal power generation (TPG), etc. Moreover, some special loads such as seawater desalination unit (SDU) should be included. In this sense, this paper proposes a planning method for OM to minimize the investment cost while the ORE's fluctuation could be accommodated with robustness. First, a deterministic planning model (DPM) is formulated for the OM with TPG and SDU. A robust planning model (RPM) is then developed considering the uncertainties from both TPG and load demand. The Column-and-constraint generation (C&CG) algorithm is then employed to solve the RPM, producing planning results for the OM that is robust against the worst scenario. Results of the case studies show that the investment and operation decisions of the proposed model are robust, and TPG shows good complementarity with the other RESs.
