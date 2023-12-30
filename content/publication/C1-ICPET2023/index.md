@@ -10,7 +10,7 @@ authors:
   - Xiaodong Lan
   - Shuxin Luo
 date: '2023'
-doi: "https://ieeexplore.ieee.org/document/10367557"
+# doi: "https://ieeexplore.ieee.org/document/10367557"
 publishDate: '2023-07-28T00:00:00Z' # Schedule page publish date (NOT publication's date).
 publication_types: ['paper-conference']
 publication: "*2023 The 5th International Conference on Power and Energy Technology (ICPET)*" # Publication name and optional abbreviated publication name.
@@ -34,6 +34,8 @@ image:
   focal_point: ""
   preview_only: false
 ---
+
+If the PDF is not accessible, try this link: https://ieeexplore.ieee.org/document/10367557. 
 
 <!-- {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
