@@ -23,7 +23,7 @@ tags:
 - Robust optimization
 - Boundary inference
 featured: true
-url_pdf: uploads/ICPET_Zhimeng_Wang.pdf
+url_pdf: content/publication/C1-ICPET2023/ICPET_ZhimengWang.pdf
 url_slides: uploads/ICPET_Zhimeng_Wang_slides.pdf
 
 # Featured image
