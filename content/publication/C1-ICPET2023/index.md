@@ -10,6 +10,7 @@ authors:
   - Xiaodong Lan
   - Shuxin Luo
 date: '2023'
+doi: "https://ieeexplore.ieee.org/document/10367557"
 publishDate: '2023-07-28T00:00:00Z' # Schedule page publish date (NOT publication's date).
 publication_types: ['paper-conference']
 publication: "*2023 The 5th International Conference on Power and Energy Technology (ICPET)*" # Publication name and optional abbreviated publication name.
@@ -23,7 +24,7 @@ tags:
 - Robust optimization
 - Boundary inference
 featured: true
-url_pdf: content/publication/C1-ICPET2023/ICPET_ZhimengWang.pdf
+url_pdf: uploads/ICPET_ZhimengWang.pdf
 url_slides: uploads/ICPET_Zhimeng_Wang_slides.pdf
 
 # Featured image
