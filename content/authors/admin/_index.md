@@ -106,7 +106,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/CV_Zhimeng_Wang.pdf
+    link: uploads/CV_ZhimengWang.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
