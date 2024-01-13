@@ -52,7 +52,7 @@ sections:
           company: Tsinghua University
           company_url: 'https://www.tsinghua.edu.cn/en/'
           company_logo: Tsinghua_University_Logo
-          location: Beijing
+          location: Beijing, China
           date_start: '2021-09-01'
           date_end: ''
           description: |2-
@@ -74,7 +74,7 @@ sections:
           company: Beijing University of Chemical Technology
           company_url: 'https://english.buct.edu.cn/main.htm'
           company_logo: BUCT_Logo
-          location: Beijing
+          location: Beijing, China
           date_start: '2017-09-01'
           date_end: '2021-06-30'
           description: |2-
@@ -105,7 +105,7 @@ sections:
     content:
       title: News
       text: |-
-        - **[Dec. 2023]** Happy holidays! 🎄
+        - **[Dec. 2023]** Happy holidays! 
         - **[Aug. 2023]** Our paper "A Robust Planning Model for Offshore Microgrid Considering Tidal Power and Desalination" got accpeted by *Applied Energy*! See [here](https://zmwang0574.github.io/publication/j1-apen2023/) for PDF, slides and more! 
         - **[Jul. 2023]** Our paper "Boundary Inference of Load Scenarios in Multi-energy Parks Based on Statistical Learning" got accpeted by *ICPET2023*! I delivered an *oral speech* as the paper was selected as a *Best Student Paper Finalist*. See [here](https://zmwang0574.github.io/publication/c1-icpet2023/) for PDF, slides and more! 
 
