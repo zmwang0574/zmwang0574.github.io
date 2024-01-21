@@ -108,6 +108,7 @@ sections:
         - **[Dec. 2023]** Happy holidays! 
         - **[Aug. 2023]** Our paper "A Robust Planning Model for Offshore Microgrid Considering Tidal Power and Desalination" got accpeted by *Applied Energy*! See [here](https://zmwang0574.github.io/publication/j1-apen2023/) for PDF, slides and more! 
         - **[Jul. 2023]** Our paper "Boundary Inference of Load Scenarios in Multi-energy Parks Based on Statistical Learning" got accpeted by *ICPET2023*! I delivered an *oral speech* as the paper was selected as a *Best Student Paper Finalist*. See [here](https://zmwang0574.github.io/publication/c1-icpet2023/) for PDF, slides and more! 
+        - {{% staticref "uploads/little me playing piano.JPG" "newtab" %}}My dog{{% /staticref %}}
 
       filters:
         folders: 
