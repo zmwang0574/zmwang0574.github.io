@@ -135,6 +135,10 @@ sections:
     content: 
       title: miscs
       text: test what is this
+      filters:
+        folders: 
+          - miscs
+        exclude_featured: false
     design:
       columns: '2'
     

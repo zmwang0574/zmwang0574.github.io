@@ -8,7 +8,7 @@ cms_exclude: true
 #   3 = Card
 #   4 = Citation
 #   5 = Showscase
-view: 1
+view: 5
 
 # Optional header image (relative to `static/media/` folder).
 header:
