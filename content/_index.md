@@ -130,16 +130,5 @@ sections:
       autolink: true # Automatically link email and phone or display as text?
     design:
       columns: '2'
-  - block: collection
-    id: miscs
-    content: 
-      title: miscs
-      text: test what is this
-      filters:
-        folders: 
-          - miscs
-        exclude_featured: false
-    design:
-      columns: '2'
     
 ---
