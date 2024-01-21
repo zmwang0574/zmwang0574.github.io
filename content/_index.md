@@ -134,6 +134,8 @@ sections:
     id: miscs
     content: 
       title: miscs
-      text: test
+      text: test what is this
+    design:
+      columns: '2'
     
 ---
