@@ -128,8 +128,12 @@ sections:
         postcode: '518000'
         country: China
       autolink: true # Automatically link email and phone or display as text?
-      ![screen reader text](little me playing piano.JPG "caption")
     design:
       columns: '2'
+  - block: collection
+    id: miscs
+    content: 
+      title: miscs
+      text: test
     
 ---
