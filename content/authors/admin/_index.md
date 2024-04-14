@@ -30,7 +30,7 @@ organizations:
 bio: Power systems optimization and operation.
 
 # Interests to show in About widget
-research interests:
+interests:
   - Power systems optimization
   - Distributed energy resources control
   - Frequency stability
