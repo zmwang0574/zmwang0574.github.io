@@ -35,7 +35,6 @@ interests:
   - Distributed energy resources control
   - Frequency stability
   - Microgrid planning
-  - Ocean renewable energy
 
 # Education to show in About widget
 education:
@@ -95,8 +94,8 @@ social:
   - icon: envelope
     icon_pack: fas
     link: "/#contact" # 'mailto:wang-zm21@mails.tsinghua.edu.cn'
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack, or 'graduation-cap' from 'fas' icon pack. 
+    icon_pack: ai
     link: https://scholar.google.com/citations?hl=en&user=unFsF_YAAAAJ
   - icon: linkedin
     icon_pack: fab
