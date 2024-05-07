@@ -79,8 +79,8 @@ sections:
           date_end: '2021-06-30'
           description: |2-
 
-              * GPA=88.73/100
-              * Ranking=7/153 (top 5%)
+              * GPA = 88.73/100
+              * Ranking = 7/153 (top 5%)
               * Beijing outstanding graduate
               * Course works: Classical Control theory, Modern Control Theory, Process Control Engineering, Optimal Control, General Physics, etc.
     design:
