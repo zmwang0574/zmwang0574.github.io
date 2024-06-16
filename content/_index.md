@@ -118,7 +118,7 @@ sections:
     id: contact
     content:
       title: Contact
-      email: zmwang0574 at gmail dot com; wang-zm21 at mails dot tsinghua dot edu dot cn
+      email: zmwang0574@gmail.com; wang-zm21@mails.tsinghua.edu.cn
       phone: +86 188 0123 7587
       address:
         street: Tsinghua Shenzhen International Graduate School, 2279 Lishui Road
