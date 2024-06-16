@@ -41,7 +41,7 @@ education:
   courses:
     - course: MS in Electrical Engineering
       institution: Tsinghua University
-      year: Sept. 2021 - Jun. 2024 (prospective)
+      year: Sept. 2021 - Jun. 2024 
     - course: BS in Automation
       institution: Beijing University of Chemical Technology
       year: Sept. 2017 - Jun. 2021

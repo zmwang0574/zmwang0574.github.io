@@ -79,8 +79,8 @@ sections:
           date_end: '2021-06-30'
           description: |2-
 
-              * GPA = 88.73/100
-              * Ranking = 7/153 (top 5%)
+              # * GPA = 88.73/100
+              # * Ranking = 7/153 (top 5%)
               * Beijing outstanding graduate
               * Course works: Classical Control theory, Modern Control Theory, Process Control Engineering, Optimal Control, General Physics, etc.
     design:
@@ -118,7 +118,7 @@ sections:
     id: contact
     content:
       title: Contact
-      email: wang-zm21@mails.tsinghua.edu.cn
+      email: zmwang0574 at gmail dot com; wang-zm21 at mails dot tsinghua dot edu dot cn
       phone: +86 188 0123 7587
       address:
         street: Tsinghua Shenzhen International Graduate School, 2279 Lishui Road
