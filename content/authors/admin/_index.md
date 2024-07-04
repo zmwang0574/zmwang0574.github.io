@@ -42,7 +42,7 @@ education:
   courses:
     - course: PhD in Electrical and Computer Engineering
       institution: Johns Hopkins University
-      yesr: Aug. 2024 - present
+      year: Aug. 2024 - present
     - course: MS in Electrical Engineering
       institution: Tsinghua University
       year: Sept. 2021 - Jun. 2024 
