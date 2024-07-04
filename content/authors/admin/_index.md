@@ -23,8 +23,6 @@ role: Incoming PhD Student in Electrical and Computer Engineering
 organizations:
   - name: Department of Electrical and Computer Engineering
     url: https://engineering.jhu.edu/ece/
-  - name: Whiting School of Engineering
-    url: https://engineering.jhu.edu/
   - name: Johns Hopkins University
     url: https://www.jhu.edu/
 
