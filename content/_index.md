@@ -48,7 +48,17 @@ sections:
       title: Biography
       date_format: Jan 2006
       items:
-        - title: Master's student in Electrical Engineering
+        - title: PhD student in Electrical and Computer Engineering
+          company: Johns Hopkins University
+          company_url: 'https://www.jhu.edu/'
+          company_logo: JHU_Logo
+          location: Baltimore, MD
+          date_start: '2024-08-26'
+          date_end: ''
+          description: |2-
+
+              * Supervisors: Prof. Enrique Mallada
+        - title: MS in Electrical Engineering
           company: Tsinghua University
           company_url: 'https://www.tsinghua.edu.cn/en/'
           company_logo: Tsinghua_University_Logo
