@@ -112,7 +112,7 @@ sections:
     content:
       title: News
       text: |-
-        - **[Jun. 2024]** I defended my thesis and got a master's degree! Happy graduation! 🎓
+        - **[Jun. 2024]** I defended my thesis and got a master's degree. Happy graduation! 🎓
         - **[Aug. 2023]** Our paper "A Robust Planning Model for Offshore Microgrid Considering Tidal Power and Desalination" got accpeted by *Applied Energy*! See [here](https://zmwang0574.github.io/publication/j1-apen2023/) for PDF, slides and more! 
         - **[Jul. 2023]** Our paper "Boundary Inference of Load Scenarios in Multi-energy Parks Based on Statistical Learning" got accpeted by *ICPET2023*! I delivered an *oral speech* as the paper was selected as a *Best Student Paper Finalist*. See [here](https://zmwang0574.github.io/publication/c1-icpet2023/) for PDF, slides and more! 
 
@@ -126,15 +126,14 @@ sections:
     id: contact
     content:
       title: Contact
-      email: zmwang0574@gmail.com; wang-zm21@mails.tsinghua.edu.cn
-      phone: +86 188 0123 7587
+      email: zwang471@jhu.edu; zmwang0574@gmail.com # phone: +86 188 0123 7587 (update this once I get a number in the US)
       address:
-        street: Tsinghua Shenzhen International Graduate School, 2279 Lishui Road
-        city: Shenzhen
-        region: Guangdong
-        postcode: '518000'
-        country: China
-      autolink: true # Automatically link email and phone or display as text?
+        street: 3400 N Charles St
+        city: Baltimore
+        region: MD
+        postcode: '21218'
+        country: United States
+      autolink: false # Automatically link email and phone or display as text? true/false
     design:
       columns: '2'
     
