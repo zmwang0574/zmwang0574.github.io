@@ -64,7 +64,7 @@ sections:
           company_logo: Tsinghua_University_Logo
           location: Beijing, China
           date_start: '2021-09-01'
-          date_end: '2024-6-28'
+          date_end: '2024-06-28'
           description: |2-
 
               * Supervisors: Prof. Hongbin Sun, Prof. Xinwei Shen

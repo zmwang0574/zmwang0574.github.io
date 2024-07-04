@@ -40,6 +40,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - course: PhD in Electrical and Computer Engineering
+      institution: Johns Hopkins University
+      year: Aug. 2024 - present
     - course: MS in Electrical Engineering
       institution: Tsinghua University
       year: Sept. 2021 - Jun. 2024 
