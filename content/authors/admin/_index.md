@@ -17,14 +17,16 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Master's Student in Electrical Engineering
+role: Incoming PhD Student in Electrical and Computer Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Tsinghua-Berkeley Shenzhen Institute
-    url: https://www.tbsi.edu.cn/english/
-  - name: Tsinghua University
-    url: https://www.tsinghua.edu.cn/en/
+  - name: Department of Electrical and Computer Engineering
+    url: https://engineering.jhu.edu/ece/
+  - name: Whiting School of Engineering
+    url: https://engineering.jhu.edu/
+  - name: Johns Hopkins University
+    url: https://www.jhu.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: Power systems optimization and operation.
@@ -34,11 +36,13 @@ interests:
   - Power systems optimization
   - Distributed energy resources control
   - Frequency stability
-  - Microgrid planning
 
 # Education to show in About widget
 education:
   courses:
+    - course: PhD in Electrical and Computer Engineering
+      institution: Johns Hopkins University
+      yesr: Aug. 2024 - present
     - course: MS in Electrical Engineering
       institution: Tsinghua University
       year: Sept. 2021 - Jun. 2024 
@@ -110,5 +114,5 @@ highlight_name: true
 
 ## Welcome to my website!
 
-I am a last-year Master's student in Electrical Engineering at [Tsinghua University](https://www.tsinghua.edu.cn/en/), supervised by [Prof. Hongbin Sun](https://www.eea.tsinghua.edu.cn/en/faculties/shb.htm) and [Prof. Xinwei Shen](https://xinweishen.com/). My **research interests** include system optimization, renewable energy integration, etc. 
+I am an incoming PhD student in Electrical and Computer Engineering at the [Johns Hopkins University](https://www.jhu.edu/), to be supervised by [Prof. Enrique Mallada](https://mallada.ece.jhu.edu/). In June 2024, I got my MS in Electrical Engineering from [Tsinghua Univeristy](https://www.tsinghua.edu.cn/en/), under the supervision of [Prof. Hongbin Sun](https://www.eea.tsinghua.edu.cn/en/faculties/shb.htm) and [Prof. Xinwei Shen](https://xinweishen.com/). My **research interests** include system optimization, renewable energy, etc. 
 {style="text-align: justify;"}
