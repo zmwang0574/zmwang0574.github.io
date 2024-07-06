@@ -48,7 +48,7 @@ sections:
       title: Biography
       date_format: Jan 2006
       items:
-        - title: PhD student in Electrical and Computer Engineering
+        - title: PhD Student in Electrical and Computer Engineering
           company: Johns Hopkins University
           company_url: 'https://www.jhu.edu/'
           company_logo: JHU_Logo

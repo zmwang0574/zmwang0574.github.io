@@ -40,7 +40,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Electrical and Computer Engineering
+    - course: PhD Student in Electrical and Computer Engineering
       institution: Johns Hopkins University
       year: Aug. 2024 - present
     - course: MS in Electrical Engineering
@@ -97,7 +97,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "/#contact" # 'mailto:wang-zm21@mails.tsinghua.edu.cn'
+    link: "/#contact" # 'mailto:zwang471@jhu.edu'
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack, or 'graduation-cap' from 'fas' icon pack. 
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=en&user=unFsF_YAAAAJ
