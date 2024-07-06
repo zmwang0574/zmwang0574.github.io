@@ -106,7 +106,7 @@ social:
     link: https://www.linkedin.com/in/zhimeng-wang/
   - icon: cv
     icon_pack: ai
-    link: uploads/CV_ZhimengWang.pdf
+    link: uploads/CV_ZhimengWang_072024.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
