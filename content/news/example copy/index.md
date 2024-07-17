@@ -1,7 +1,7 @@
 ---
-title: Our paper “Boundary Inference of Load Scenarios in Multi-energy Parks Based on Statistical Learning” got accpeted by ICPET2023!
+title: One conference paper accpeted and an oral speech given
 
-event: Our paper “Boundary Inference of Load Scenarios in Multi-energy Parks Based on Statistical Learning” got accpeted by ICPET2023! I delivered an oral speech as the paper was selected as a Best Student Paper Finalist. See here for PDF, slides and more!
+event: Our paper “Boundary Inference of Load Scenarios in Multi-energy Parks Based on Statistical Learning” got accpeted by ICPET2023! I delivered an oral speech as the paper was selected as a Best Student Paper Finalist. See below for PDF, slides and more!
 # event_url: https://example.org
 
 location: Tianjin, China
@@ -12,13 +12,13 @@ address:
   postcode: '94305'
   country: United States
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+# summary: An example talk using Hugo Blox Builder's Markdown slides feature.
+# abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2023-07'
+# date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
