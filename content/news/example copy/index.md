@@ -1,10 +1,10 @@
 ---
-title: News List
+title: Our paper “Boundary Inference of Load Scenarios in Multi-energy Parks Based on Statistical Learning” got accpeted by ICPET2023!
 
-event: News List Title
+event: Our paper “Boundary Inference of Load Scenarios in Multi-energy Parks Based on Statistical Learning” got accpeted by ICPET2023! I delivered an oral speech as the paper was selected as a Best Student Paper Finalist. See here for PDF, slides and more!
 # event_url: https://example.org
 
-location: Hugo Blox Builder HQ
+location: Tianjin, China
 address:
   street: 450 Serra Mall
   city: Stanford
@@ -28,7 +28,7 @@ authors: [admin]
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: true
+featured: false
 
 # image:
 #   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
