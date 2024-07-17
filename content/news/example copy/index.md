@@ -21,7 +21,7 @@ date: '2023-07'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2023-07'
+publishDate: '2023-07T15:00:00Z'
 
 authors: [admin]
 tags: [News]
@@ -38,7 +38,7 @@ url_pdf: 'https://zmwang0574.github.io/uploads/ICPET_ZhimengWang.pdf'
 url_slides: 'https://zmwang0574.github.io/uploads/ICPET_Zhimeng_Wang_slides.pdf'
 ---
 
-Our paper “Boundary Inference of Load Scenarios in Multi-energy Parks Based on Statistical Learning” got accpeted by ICPET2023! I delivered an oral speech as the paper was selected as a Best Student Paper Finalist. Click the buttons for PDF, slides and more! 
+Our paper “Boundary Inference of Load Scenarios in Multi-energy Parks Based on Statistical Learning” got accpeted by ICPET2023! I delivered an oral speech as the paper was selected as a Best Student Paper Finalist. Click the buttons right below the title for PDF, slides and more! 
 
 <!-- {{% callout note %}}
 Click on the **Slides** button above to view the built-in slides feature.
