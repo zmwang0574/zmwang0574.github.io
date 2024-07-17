@@ -2,7 +2,6 @@
 title: One conference paper accpeted and an oral speech given
 
 event: Our paper “Boundary Inference of Load Scenarios in Multi-energy Parks Based on Statistical Learning” got accpeted by ICPET2023! I delivered an oral speech as the paper was selected as a Best Student Paper Finalist. See below for PDF, slides and more!
-# event_url: https://example.org
 
 location: Tianjin, China
 address:
@@ -22,10 +21,10 @@ date: '2023-07'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2023-07'
 
 authors: [admin]
-tags: []
+tags: [News]
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -35,17 +34,11 @@ featured: false
 #   focal_point: Right
 
 links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
+url_pdf: 'https://zmwang0574.github.io/uploads/ICPET_ZhimengWang.pdf'
+url_slides: 'https://zmwang0574.github.io/uploads/ICPET_Zhimeng_Wang_slides.pdf'
 ---
 
-This website is up. 🎄
+Our paper “Boundary Inference of Load Scenarios in Multi-energy Parks Based on Statistical Learning” got accpeted by ICPET2023! I delivered an oral speech as the paper was selected as a Best Student Paper Finalist. Click the buttons for PDF, slides and more! 
 
 <!-- {{% callout note %}}
 Click on the **Slides** button above to view the built-in slides feature.
