@@ -112,10 +112,6 @@ sections:
     content:
       title: News
       text: |-
-        - **[Jun. 2024]** I defended my thesis and got a master's degree. Happy graduation! 🎓
-        - **[Aug. 2023]** Our paper "A Robust Planning Model for Offshore Microgrid Considering Tidal Power and Desalination" got accpeted by *Applied Energy*! See [here](https://zmwang0574.github.io/publication/j1-apen2023/) for PDF, slides and more! 
-        - **[Jul. 2023]** Our paper "Boundary Inference of Load Scenarios in Multi-energy Parks Based on Statistical Learning" got accpeted by *ICPET2023*! I delivered an *oral speech* as the paper was selected as a *Best Student Paper Finalist*. See [here](https://zmwang0574.github.io/publication/c1-icpet2023/) for PDF, slides and more! 
-
       filters:
         folders: 
           - news

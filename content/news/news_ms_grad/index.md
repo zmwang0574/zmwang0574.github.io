@@ -1,7 +1,7 @@
 ---
 title: Thesis Defended and MS Degree Earned
 
-event: I defended my thesis in May and got a master’s degree. Happy graduation! 🎓
+event: I defended my thesis on May 15th and got a master’s degree. Happy graduation! 🎓
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -19,7 +19,7 @@ tags: [News]
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'A photo after the defense on May 15th. '
   focal_point: Right
 
 ---
