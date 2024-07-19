@@ -18,7 +18,7 @@ date: '2023-07-29T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2023-07-30T15:00:00Z'
+publishDate: '2023-07-30'
 
 authors: [admin]
 tags: [News]
