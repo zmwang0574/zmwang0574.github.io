@@ -24,7 +24,7 @@ authors: [admin]
 tags: [News]
 
 # Is this a featured talk? (true/false)
-featured: true
+featured: false
 
 # image:
 #   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
@@ -35,7 +35,7 @@ url_pdf: 'https://zmwang0574.github.io/uploads/ICPET_ZhimengWang.pdf'
 url_slides: 'https://zmwang0574.github.io/uploads/ICPET_Zhimeng_Wang_slides.pdf'
 ---
 
-Our paper “Boundary Inference of Load Scenarios in Multi-energy Parks Based on Statistical Learning” got accpeted by ICPET2023! I delivered an oral speech as the paper was selected as a Best Student Paper Finalist. Click the buttons right below the title for PDF, slides and more! 
+Our paper “Boundary Inference of Load Scenarios in Multi-energy Parks Based on Statistical Learning” got accpeted by ICPET2023! I delivered an oral speech as the paper was selected as a Best Student Paper Finalist. Click the buttons right below the title of this page for *PDF*, *slides* and more! 
 
 <!-- {{% callout note %}}
 Click on the **Slides** button above to view the built-in slides feature.
