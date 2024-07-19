@@ -24,7 +24,7 @@ image:
 
 ---
 
-I defended my thesis in May and got a master’s degree. Happy graduation! 🎓
+I defended my thesis in May 15th and got a master’s degree. Happy graduation! 🎓
 
 <!-- {{% callout note %}}
 Click on the **Slides** button above to view the built-in slides feature.
