@@ -13,12 +13,12 @@ address:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-07'
+date: '2023-07-29T15:00:00Z'
 # date_end: '2030-06-01T15:00:00Z'
-all_day: false
+all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2023-07T15:00:00Z'
+publishDate: '2023-07-29T15:00:00Z'
 
 authors: [admin]
 tags: [News]
