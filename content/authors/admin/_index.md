@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Incoming PhD Student in Electrical and Computer Engineering
+role: PhD Student in Electrical and Computer Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -29,13 +29,11 @@ organizations:
     url: https://www.jhu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Power systems optimization and operation.
+bio: Control and optimization. 
 
 # Interests to show in About widget
 interests:
-  - Power systems optimization
-  - Distributed energy resources control
-  - Frequency stability
+  - . 
 
 # Education to show in About widget
 education:
@@ -114,5 +112,5 @@ highlight_name: true
 
 ## Welcome to my website!
 
-I am an incoming PhD student in Electrical and Computer Engineering at the [Johns Hopkins University](https://www.jhu.edu/), to be supervised by [Prof. Enrique Mallada](https://mallada.ece.jhu.edu/). In June 2024, I got my MS in Electrical Engineering from [Tsinghua Univeristy](https://www.tsinghua.edu.cn/en/), under the supervision of [Prof. Hongbin Sun](https://www.eea.tsinghua.edu.cn/en/faculties/shb.htm) and [Prof. Xinwei Shen](https://xinweishen.com/). My **research interests** include system optimization, renewable energy, etc. 
+I am a PhD student in Electrical and Computer Engineering at the [Johns Hopkins University](https://www.jhu.edu/), supervised by [Prof. Enrique Mallada](https://mallada.ece.jhu.edu/). In June 2024, I got my MS in Electrical Engineering from [Tsinghua Univeristy](https://www.tsinghua.edu.cn/en/), under the supervision of [Prof. Hongbin Sun](https://www.eea.tsinghua.edu.cn/en/faculties/shb.htm) and [Prof. Xinwei Shen](https://xinweishen.com/). My **research interests** include control, optimization, etc. 
 {style="text-align: justify;"}
