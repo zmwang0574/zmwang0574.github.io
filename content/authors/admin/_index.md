@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD Student in Electrical and Computer Engineering
+role: PhD **Student** in Electrical and Computer Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -38,7 +38,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD Student in Electrical and Computer Engineering
+    - course: PhD **Student** in Electrical and Computer Engineering
       institution: Johns Hopkins University
       year: Aug. 2024 - present
     - course: MS in Electrical Engineering
@@ -112,5 +112,5 @@ highlight_name: true
 
 ## Welcome to my website!
 
-I am a PhD student in Electrical and Computer Engineering at the [Johns Hopkins University](https://www.jhu.edu/), supervised by [Prof. Enrique Mallada](https://mallada.ece.jhu.edu/). In June 2024, I got my MS in Electrical Engineering from [Tsinghua Univeristy](https://www.tsinghua.edu.cn/en/), under the supervision of [Prof. Hongbin Sun](https://www.eea.tsinghua.edu.cn/en/faculties/shb.htm) and [Prof. Xinwei Shen](https://xinweishen.com/). My **research interests** include control, optimization, etc. 
+I am a 1st PhD **student** in Electrical and Computer Engineering at the [Johns Hopkins University](https://www.jhu.edu/), supervised by [Prof. Enrique Mallada](https://mallada.ece.jhu.edu/). In June 2024, I got my MS in Electrical Engineering from [Tsinghua Univeristy](https://www.tsinghua.edu.cn/en/), under the supervision of [Prof. Hongbin Sun](https://www.eea.tsinghua.edu.cn/en/faculties/shb.htm) and [Prof. Xinwei Shen](https://xinweishen.com/). 
 {style="text-align: justify;"}
