@@ -38,7 +38,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD **Student** in Electrical and Computer Engineering
+    - course: PhD Student in Electrical and Computer Engineering
       institution: Johns Hopkins University
       year: Aug. 2024 - present
     - course: MS in Electrical Engineering
