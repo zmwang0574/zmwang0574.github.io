@@ -1,7 +1,7 @@
 ---
-title: Thesis Defended and MS Degree Earned
+title: Master's Thesis Defended
 
-event: I defended my thesis on May 15th and got a master’s degree. Happy graduation! 🎓
+event: I defended my master's thesis on May 15th and got a master’s degree. Happy graduation! 🎓
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
